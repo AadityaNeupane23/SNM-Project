@@ -30,7 +30,7 @@ The simulation visually demonstrates the Earth revolving around the Sun and the 
 **1. Clone the repository**
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/AadityaNeupane23/SNM-Project.git
 ```
 
 **2. Navigate to the project directory**
