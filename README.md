@@ -30,19 +30,19 @@ The simulation visually demonstrates the Earth revolving around the Sun and the 
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/AadityaNeupane23/SNM-Project.git
+git clone https://github.com/AadityaNeupane23/Sun-Earth-Moon-Simulation.git
 ```
 
 **2. Navigate to the project directory**
 
 ```bash
-cd SNM-Project
+cd  Sun-Earth-Moon-Simulation
 ```
 
-**3. Install the required library**
+**3. Install the required dependencies**
 
 ```bash
-pip install pygame
+pip install -r requirements.txt
 ```
 
 **4. Run the simulation**
